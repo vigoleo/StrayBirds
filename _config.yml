@@ -115,15 +115,15 @@ disqus:
 
 #################################### global configure #######################################
 
-username: minixalpha
+username: minixsigma
 baseurl: /StrayBirds
 markdown: redcarpet
 safe: false
 highlighter: pygments
-title: 飞鸟集
-description: 人生到处知何似，应似飞鸿踏雪泥
+title: 青鸟
+description: 白日不到处,青春恰自来
 theme: kunka
-disqusname: minixalpha
+disqusname: minixsigma
 
 # theme can be: hack, leap-day, merlot, midnight, minimal, modernist, slate, time-machine, kunka
 # those themes are all come from GitHub Pages Themes
